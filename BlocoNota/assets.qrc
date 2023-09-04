@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>Nova pasta/colar.png</file>
+        <file>Nova pasta/copiar.png</file>
+        <file>Nova pasta/desfazer.png</file>
+        <file>Nova pasta/excluir.png</file>
+        <file>Nova pasta/novo.png</file>
+        <file>Nova pasta/pasta.png</file>
+        <file>Nova pasta/recortar.png</file>
+        <file>Nova pasta/refazer.png</file>
+        <file>Nova pasta/salvar.png</file>
+        <file>Nova pasta/sobre.png</file>
+        <file>Nova pasta/salvar-como.png</file>
+        <file>Nova pasta/imprimir.png</file>
+    </qresource>
+</RCC>
